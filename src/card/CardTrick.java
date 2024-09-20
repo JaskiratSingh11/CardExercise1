@@ -67,3 +67,4 @@ public class CardTrick {
         // add one luckcard hard code 2,clubs
        
 }
+}

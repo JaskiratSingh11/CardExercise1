@@ -65,5 +65,5 @@ public class CardTrick {
         }
         //Then report the result here
         // add one luckcard hard code 2,clubs
-       
+    }
 }

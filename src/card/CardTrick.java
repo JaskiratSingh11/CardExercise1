@@ -86,4 +86,5 @@ public class CardTrick {
         k.close();
 }
 
-    }
+}
+
